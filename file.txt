@@ -7,3 +7,4 @@ STRANGE IT IS
 Post commit comment in file.txt
 change in master
 COMMIT THIS CHANGE IN BRANCH
+change prior to git pull request made on branch
