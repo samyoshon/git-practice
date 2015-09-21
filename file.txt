@@ -1,0 +1,4 @@
+This is GIT from the branch branch
+This is the modified branch // WRITTEN FROM THE MASTER BRANCH
+
+STRANGE IT IS
