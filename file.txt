@@ -5,3 +5,4 @@ STRANGE IT IS
 
 
 Post commit comment in file.txt
+THIS IS THE MASTER MASTER MASTER EDIT
